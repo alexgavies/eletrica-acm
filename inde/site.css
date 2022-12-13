@@ -1,0 +1,63 @@
+body{
+    background-image: linear-gradient(90deg ,#82a19e,#2f3331,#646253,#554f4b,#4d4831);
+}
+.fundocolorido{
+    background-image: linear-gradient(90deg ,#82a19e,#2f3331,#646253,#554f4b,#4d4831);
+}
+
+.bgImage{
+    min-height: 79vh;
+    padding-top: 50px;
+    background-image: url(./img/cinza\ riscas.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .9;
+}
+.bgAPre{
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.514);
+    max-height: 400px;
+    max-width: 500px;
+    opacity: .7;
+    color: white;
+    text-align: center;
+}
+.bg-bege{
+    background-color: #f5f2eb;
+}
+.bg-planta{
+    background-image: linear-gradient(rgba(10, 10, 10, 0.589), rgba(0, 0, 0, 0.616)),url(./img/torre\ gama.jpg);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mm{
+    max-width: 660px;
+}
+
+.imgarvore{
+    background-image: linear-gradient(rgba(10, 10, 10, 0.589), rgba(0, 0, 0, 0.616)),url(./img/cinza\ riscas.jpg);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.opacity{
+    opacity: .9;
+}
+
+.icone{
+    object-fit: contain;
+    height: 60px;
+}
+.icone-app{
+    object-fit: contain;
+    height: 40px;
+}
+.text-orange{
+    color: #F28157;
+}
+.border-orenge{
+    border: solid #F28157 2px;
+}
