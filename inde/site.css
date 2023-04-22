@@ -6,7 +6,7 @@ body{
 }
 
 .bgImage{
-    min-height: 79vh;
+    min-height: 60vh;
     padding-top: 50px;
     background-image: url(./img/cinza\ riscas.jpg);
     background-position: center;
@@ -28,22 +28,22 @@ body{
 }
 .bg-planta{
     background-image: linear-gradient(rgba(10, 10, 10, 0.213), rgba(0, 0, 0, 0.616)),url(./img/acm\ cartao\ pret.jpeg);
-    background-position: center bottom;
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .mm{
     max-width: 660px;
 }
-.nn{
-    height: 660px;
-}
+
 .imgarvore{
     background-image: linear-gradient(rgba(10, 10, 10, 0.589), rgba(0, 0, 0, 0.616)),url(./img/cinza\ riscas.jpg);
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+
 
 .opacity{
     opacity: .9;
